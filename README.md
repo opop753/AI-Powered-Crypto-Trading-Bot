@@ -1,5 +1,7 @@
+# [📞Telegram](https://t.me/daveex0086)
+
 <div align="center">
-  <h1>AI-Powered Crypto Trading Bot</h1>
+  <h1>AI-Powered Crypto Trading Bot<a href="https://t.me/daveex0086">📞Telegram</a></h1>
 </div>
 
 ## Features
