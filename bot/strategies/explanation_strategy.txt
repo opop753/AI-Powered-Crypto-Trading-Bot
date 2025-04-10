@@ -1,0 +1,12 @@
+ Explanation
+🔹 Crossover Strategy: Uses Simple Moving Averages (SMA 50 & SMA 200)
+🔹 Trade Execution:
+Buys when SMA 50 crosses above SMA 200
+Sells when SMA 50 crosses below SMA 200
+🔹 Risk Management:
+Stop Loss (SL): 5% below entry
+Take Profit (TP): 10% above entry
+🔹 Performance Metrics:
+Uses Google Stock Data (GOOG)
+Runs with $10,000 initial capital
+0.2% Commission per trade

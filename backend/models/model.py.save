@@ -1,0 +1,24 @@
+from sqlalchemy import Column, Integer, String, Boolean
+from ..database import Base
+
+class User(Base):
+    __tablename__ = "users"
+
+    id = Column(Integer, primary_key=True, index=True)
+    username = Column(String, unique=True, index=True)
+    password = Column(String)
+
+
+class Model(Base):
+    __tablename__ = 'models'
+
+    id = Column(Integer, primary_key=True, index=True)
+    name = Column(String, index=True)
+    enabled = Column(Boolean, default=True)  # Changed to Boolean type for clarity
+
+    def to_dict(self):
+        return {
+            "id": self.id,
+            "name": self.name,
+            "enabled": self.enabled
+        }

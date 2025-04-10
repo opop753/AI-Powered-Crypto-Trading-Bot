@@ -1,0 +1,31 @@
+# Ignore environment variables file
+.env
+
+connect.sh
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/*
+venv2/*
+
+node_modules/*
+
+
+# Ignore npm cache
+npm-cache
+
+
+# Ignore uvicorn logs
+backend_startup.log
+logs/backend.log
+
+
+# Ignore API logs
+logs/api.log
+
+
+# Ignore FastAPI logs
+logs/fastapi.log

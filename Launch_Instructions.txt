@@ -1,0 +1,36 @@
+restart_services.sh 
+
+
+	----------------------------------------------------
+	-Startup of the backend, API, and frontend services- 
+	----------------------------------------------------
+	
+	
+Summary: 
+--------The script manages the startup of the backend and API, ensuring that any existing processes are terminated before starting new ones.
+	It also includes checks to confirm that each service is running successfully.
+
+1)
+Network Check: 
+	- check if the NetworkManager is active. If not, display a message and exit.
+2)
+Start Backend:
+	- change dir to: ./backend
+	- kill any existing process running api.py to ensure no conflicts.
+	- start the backend using uvicorn, specifying the host and port, and logs the output to backend_startup.log.
+	- checks if backend is running by looking for the api.py process.
+3)
+Start API:
+	- It sends a health check request to the API at http://localhost:3000/health. If API is not responding, show error message and exit.
+
+4)
+Start Frontend:
+	- change dir to: ../trading-bot-frontend
+	- kill any existing process using port 3001 and stop any running frontend process.
+	- It checks again if port 3001 is occupied and prompts for a different port if necessary.
+	- starts the frontend using npm start and logs any errors.
+	- It waits for 5 seconds to allow the frontend to start and checks if it is running.
+	- Open Chrome: If it is not running, start it
+5)
+Final Message: 
+	- display success message once all services have restarted.
