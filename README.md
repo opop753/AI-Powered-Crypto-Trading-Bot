@@ -44,7 +44,7 @@ To install and run the project locally, follow these steps:
 ![image](https://github.com/user-attachments/assets/6e5a517e-f34f-4b20-825f-cdcac3342255)
 
 ### backend:
-![image](https://github.com/user-attachments/assets/dd710e8c-022f-47db-87b0-a27116670019)
+![428907852-dd710e8c-022f-47db-87b0-a27116670019](https://github.com/user-attachments/assets/9202ef30-9462-460c-88c8-c455629e445d)
 
 ![screen9](https://github.com/user-attachments/assets/4053a368-6fcb-451a-b081-ec82163b6835)
 ![screen8](https://github.com/user-attachments/assets/7efd2987-9cbc-45c2-871b-01d9a64247d9)
