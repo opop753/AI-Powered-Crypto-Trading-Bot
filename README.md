@@ -18,24 +18,24 @@
 
 To install and run the project locally, follow these steps:
 
-1. **to install this project in the webroot execute:**:
+1. **to install this project in the webroot execute:**
    ```bash
    sudo npm install
 
-2. **in the backend folder run these commands:**:
+2. **in the backend folder run these commands:**
    ```bash
    sudo npm install
    sudo virtualenv venv
    source venv/bin/activate
    pip install -r requirements.txt
-3. **in the bot folder:**:
+3. **in the bot folder:**
    ```bash
    sudo npm install
    pip install -r requirements.txt
    cd frontend/
    sudo virtualenv venv
    source venv/bin/activate
-4. **running the entire project:**:
+4. **running the entire project:**
    ```bash
    in the webroot you will see 2 .sh scripts launch_be.sh for the backend and launch_fe.sh for the frontend.
    ```
