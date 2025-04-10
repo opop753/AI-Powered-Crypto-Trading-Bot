@@ -45,7 +45,7 @@ DETAIL_MODE="minimal"
 # Function to show help
 show_help() {
     echo "
-Backend launcher written by Dimitri Bertolami
+Backend launcher written by OnlyForward0613
 _____________________________________________"
     echo "
 Available commands:"

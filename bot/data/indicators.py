@@ -1,4 +1,4 @@
-# Information provided by Dimi Bertolami
+# Information provided by OnlyForward0613
 # HUOBI
 import numpy as np; import pandas as pd
 import json,requests,urllib3,datetime;   

@@ -90,7 +90,7 @@ class MovingAverageCrossover:
 
         # Add your name to the plot
         fig.add_annotation(
-            text="Dimitri Bertolami",
+            text="OnlyForward0613",
             xref="paper", yref="paper",
             x=0.5, y=1.05,
             showarrow=False,

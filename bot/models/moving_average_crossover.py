@@ -76,7 +76,7 @@ class MovingAverageCrossover:
         fig.update_layout(title='Moving Average Crossover Strategy', xaxis_title='Date', yaxis_title='Price', legend_title='Legend')
         # Add your name to the plot
         fig.add_annotation(
-            text="Dimitri Bertolami",
+            text="OnlyForward0613",
             xref="paper", yref="paper",
             x=0.5, y=1.05,
             showarrow=False,
